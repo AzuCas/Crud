@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\range\\source\\repos\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|c:\\users\\range\\source\\repos\\crud\\formularios\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:formularios\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|c:\\users\\range\\source\\repos\\crud\\formularios\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:formularios\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|c:\\users\\range\\source\\repos\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|C:\\Users\\range\\source\\repos\\Crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|c:\\users\\range\\source\\repos\\crud\\formularios\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:formularios\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|c:\\users\\range\\source\\repos\\crud\\formularios\\provedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:formularios\\provedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|c:\\users\\range\\source\\repos\\crud\\formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:formularios\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|c:\\users\\range\\source\\repos\\crud\\formularios\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AE1262B-80E7-4655-BBA1-B04E8AEF7328}|Crud.csproj|solutionrelative:formularios\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCliente.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\FrmCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\FrmCliente.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\FrmCliente.cs",
+              "RelativeToolTip": "Formularios\\FrmCliente.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:17:54.847Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compras.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Compras.cs",
+              "RelativeDocumentMoniker": "Formularios\\Compras.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Compras.cs",
+              "RelativeToolTip": "Formularios\\Compras.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:35:52.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Compras.cs",
+              "RelativeDocumentMoniker": "Formularios\\Compras.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Compras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\Compras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:31:47.993Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Productos.cs",
+              "RelativeDocumentMoniker": "Formularios\\Productos.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Productos.cs",
+              "RelativeToolTip": "Formularios\\Productos.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:50:02.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Productos.cs",
+              "RelativeDocumentMoniker": "Formularios\\Productos.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:47:08.013Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Provedores.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Provedores.cs",
+              "RelativeDocumentMoniker": "Formularios\\Provedores.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Formularios\\Provedores.cs",
+              "RelativeToolTip": "Formularios\\Provedores.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T04:17:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:11:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\Crud\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\Crud\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:10:37.59Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
